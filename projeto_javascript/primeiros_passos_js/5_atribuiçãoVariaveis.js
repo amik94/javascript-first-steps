@@ -10,7 +10,7 @@ console.log(nome + " " + sobrenome);
 //opção 1 - realizando concatenação de string de dois variaveis
 
 console.log(nome, sobrenome);
-//opção 2 - realizando concatenação  de string de dois variaveis
+//opção 2 - realizando interpolação  de string de dois variaveis
 
 console.log(`Meu nome é ` + nome + " " + sobrenome);
 //opção 3 - realizando concatenação  de string de dois variaveis
