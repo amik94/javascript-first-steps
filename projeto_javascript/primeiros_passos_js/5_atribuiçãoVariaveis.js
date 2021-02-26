@@ -35,7 +35,7 @@ e mais confortavel o uso quando tem textos com volume maior*/
 
 /*
 - Importante: É boa pratica manter o maximo possivel o uso de declaração de 
-variável como "const" e não "let ou var" para evitar a variação. 
+como "const" e não "let ou var" para evitar a variação. 
 Porque gera gerenciamento de estado (em estado global ou de uma classe orientado ao objeto)
 e fica mais dificil de entedner o comportamento do sistema se muitas variaveis estão sendo
 aletrados ao tempo todo. Isso difficulta realizar debug, achar e 
