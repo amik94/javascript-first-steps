@@ -69,6 +69,6 @@ const sobrenomeFinal = "Borges da Silva";
 const meuNomeCompleto = (`Meu nome completo é: ${meuPrimeiroNome} ${sobrenomeMeio} ${sobrenomeFinal}`);
 console.log(meuNomeCompleto);
 
-/* Declarando variavel com "const", sendo valor que não pode ser alterado é prefirivel digitar
+/* Declarando com "const", sendo valor que não pode ser alterado é prefirivel digitar
 eu uma linha só.*/
 
