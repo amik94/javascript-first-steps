@@ -46,7 +46,7 @@ caso o comprador foi maior de idade*/
 neese exemplo a condição que a gente passa para "else" é não vender viagem para São Paulo 
 caso o comprador foi menor de idade*/
 
-/* Podemos aplicar comdição dentro da condição (como segunda verificação)*/
+/* Podemos aplicar condição dentro da condição (como segunda verificação)*/
 
 /* È recomendado aplicar no codigo as condições quando for necessario, pois se aplicar sem necessidade isso pode impactar lá na frente, 
    possibilita surgimento de mais problemas logicas e poderá difficultar solucionar aplicações logicas, 
