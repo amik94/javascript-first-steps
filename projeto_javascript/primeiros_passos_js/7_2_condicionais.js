@@ -28,7 +28,7 @@ if (idadeComprador >= 18 || estaAcompanhada == true){ //Realizando a concatenaç
 
 }
 
-console.log("Embarque: \n")// "\n" é um caracter especial, pula para linha seguida
+console.log("Embarque: \n")// "\n" é um caracter especial, faz com que o codigo de linha pula para linha seguida
 if (idadeComprador >= 18 && temPassagemComprada){
     console.log("Aprovado!");
 } else {
