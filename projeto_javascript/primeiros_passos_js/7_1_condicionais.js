@@ -58,5 +58,5 @@ console.log(idadeComprador > 18);  // maior que
 console.log(idadeComprador < 18);  // menor que
 console.log(idadeComprador <= 18); // menor ou igual
 console.log(idadeComprador >= 18); // maior ou igual
-console.log(idadeComprador == 18); // um dinal de "=" realiza atribição e dois sinais de "==" singnifica comparação
+console.log(idadeComprador == 18); // um sinal de "=" realiza atribição e dois sinais de "==" singnifica comparação
 
