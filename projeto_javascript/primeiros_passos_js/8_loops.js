@@ -17,7 +17,7 @@
 
 /* 
 - O while sempre precisará de uma expressão condicional que definirá quando o laço deve ser interrompido.
-- Correta. Muito bem! Lembre-se, essa expressão condicional precisará ser informada dentro dos 
+  essa expressão condicional precisará ser informada dentro dos 
   parênteses do while e pode ainda utilizar qualquer um dos operadores de comparação e operadores lógicos.
 */
 
