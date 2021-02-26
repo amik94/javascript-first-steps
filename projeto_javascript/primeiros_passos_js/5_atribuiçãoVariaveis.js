@@ -38,8 +38,8 @@ e mais confortavel o uso quando tem textos com volume maior*/
  "const" e não "let ou var" para evitar a variação. 
 Porque gera gerenciamento de estado (em estado global ou de uma classe orientado ao objeto)
 e fica mais dificil de entedner o comportamento do sistema se muitas variaveis estão sendo
-aletrados ao tempo todo. Isso difficulta realizar debug, achar e 
-até fazer com que ocorrem muitos erros. 
+aletrados ao tempo todo. Isso difficulta realizar debug, achar o erro. Inclusive
+faz com que ocorram muitos erros durante a evolução do sistema. 
 
 -Importante: não é muito recomendado o uso do "var" pois 
 não respeita muito o escopo.
